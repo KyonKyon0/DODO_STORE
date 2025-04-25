@@ -177,15 +177,16 @@ body {
     #carousel {
       padding: 1em;
       gap: 1em;
-      height: auto;
+      height: 20vh;
       min-height: 250px;
       overflow-x: hidden;
     }
   
     .carousel {
       display: flex;
-      width: 100%;
-      height: auto;
+      width: auto%;
+      height: 100%;
+    
     }
   
     .carousel .list {
