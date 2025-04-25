@@ -175,8 +175,7 @@ body {
 
 @media (max-width: 480px) {
     #carousel {
-      padding: 1em;
-      gap: 1em;
+      
       height: 10vh;
       min-height: 10px;
       overflow-x: hidden;
