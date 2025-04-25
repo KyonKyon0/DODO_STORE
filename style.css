@@ -177,7 +177,7 @@ body {
     #carousel {
       padding: 1em;
       gap: 1em;
-      height: 20vh;
+      height: 10vh;
       min-height: 250px;
       overflow-x: hidden;
     }
